@@ -155,7 +155,7 @@ We may update this Privacy Policy from time to time. If we do, we will update th
 
 If you have questions about this Privacy Policy, contact:
 
-**Email:** privacy@nvisust.com
+**Email:** info@nvisust.com
 
 **Developer:** Nvisust
 **App:** BoxMyDay
